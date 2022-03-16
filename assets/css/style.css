@@ -71,7 +71,7 @@ nav ul li a {
   border-bottom: solid #000000 1px;
 }
 
-/* this code repositions and styles the subtitle that's layered over the hero image */
+/* this code repositions and styles the heading that's layered over the hero image */
 figure section {
   display: flex;
   justify-content: center;
@@ -110,7 +110,7 @@ figure section {
 }
 
 /* this code enables the p element to wrap around the image */
-#about-me section p {
+#about-me article p {
   text-align: justify;
   margin: auto 10px auto 0;
   color: #08094d;
@@ -263,7 +263,7 @@ footer {
   }
 
   /* increased font size due to higher resolution */
-  #about-me section p {
+  #about-me article p {
     font-size: 20px;
   }
 
