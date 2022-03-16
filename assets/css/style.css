@@ -188,6 +188,18 @@ figure section {
   font-size: 20px;
 }
 
+address ul li {
+  text-align: center;
+  display: inline-block;
+  margin: 4px 4px 5px 4px;
+}
+
+address ul li a {
+  color: #08094d;
+  text-decoration: none;
+  border-bottom: solid #08094d 3px;
+}
+
 footer {
   margin-top: 10px;
   text-align: center;
