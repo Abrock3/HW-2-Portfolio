@@ -112,7 +112,7 @@ figure section {
 /* this code enables the p element to wrap around the image */
 #about-me article p {
   text-align: justify;
-  margin: auto 10px auto 0;
+  margin: auto 0 auto 0;
   color: #08094d;
 }
 
