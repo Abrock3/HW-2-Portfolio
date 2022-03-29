@@ -135,7 +135,7 @@ figure section {
 /* used calc in my flex basis with margin in a later element to produce equal space between all the work cards*/
 .work-card {
   flex: 0 0 calc(50% - 5px);
-  border: solid 4px #08094d;
+
   position: relative;
   background-color: #08094d;
 }
@@ -156,6 +156,7 @@ figure section {
 }
 
 .work-card img {
+    border: solid 4px #08094d;
   max-width: 100%;
   display: block;
   background-color: #08094d;
