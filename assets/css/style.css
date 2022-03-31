@@ -122,6 +122,7 @@ figure section {
   background-color: #08094d;
   float: right;
   margin-left: 10px;
+    outline: 0;
 }
 
 /* used the flex display property to help arrange my work cards */
@@ -156,10 +157,11 @@ figure section {
 }
 
 .work-card img {
-    border: solid 4px #08094d;
-  max-width: 100%;
-  display: block;
+  border: solid 4px #08094d;
+outline:0;
+border-bottom-width: 3px;
   background-color: #08094d;
+max-width:100%;
 }
 
 /* this works with the flex basis of the .work-card class to create equal spaces among all work cards */
@@ -182,7 +184,6 @@ figure section {
 .right-card h3 {
   right: 0;
 }
-
 
 #first-card h3 {
   padding: 10px;
@@ -280,7 +281,7 @@ footer {
   .work-card {
     flex: 0 0 calc(50% - 10px);
   }
-/* set this again, as the .work-card code block immediately above this overrides the prior rule */
+  /* set this again, as the .work-card code block immediately above this overrides the prior rule */
   #first-card {
     flex: 0 0 100%;
   }
