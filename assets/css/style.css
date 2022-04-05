@@ -142,7 +142,7 @@ figure section {
 }
 
 
-#big-card {
+.big-card {
   flex: 0 0 100%;
 }
 
@@ -185,7 +185,7 @@ max-width:100%;
   right: 0;
 }
 
-#big-card h3 {
+.big-card h3 {
   padding: 10px;
   font-size: 20px;
 }
@@ -273,7 +273,7 @@ footer {
     font-size: 25px;
   }
 
-  #big-card h3 {
+  .big-card h3 {
     font-size: 36px;
   }
 
@@ -282,7 +282,7 @@ footer {
     flex: 0 0 calc(50% - 10px);
   }
   /* set this again, as the .work-card code block immediately above this overrides the prior rule */
-  #big-card {
+  .big-card {
     flex: 0 0 100%;
   }
 
