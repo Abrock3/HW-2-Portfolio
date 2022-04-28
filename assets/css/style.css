@@ -117,14 +117,14 @@ figure section {
 }
 
 #img-self {
-  box-sizing:content-box;
+  box-sizing: content-box;
   display: inline-block;
   border: solid 3px #08094d;
   height: 150px;
   background-color: #08094d;
   margin-left: 10px;
   outline: 0;
-  float:right;
+  float: right;
 }
 
 /* used the flex display property to help arrange my work cards */
