@@ -117,12 +117,14 @@ figure section {
 }
 
 #img-self {
+  box-sizing:content-box;
+  display: inline-block;
   border: solid 3px #08094d;
   height: 150px;
   background-color: #08094d;
-  float: right;
   margin-left: 10px;
-    outline: 0;
+  outline: 0;
+  float:right;
 }
 
 /* used the flex display property to help arrange my work cards */
@@ -141,7 +143,6 @@ figure section {
   background-color: #08094d;
 }
 
-
 .big-card {
   flex: 0 0 100%;
 }
@@ -158,10 +159,10 @@ figure section {
 
 .work-card img {
   border: solid 4px #08094d;
-outline:0;
-border-bottom-width: 2px;
+  outline: 0;
+  border-bottom-width: 2px;
   background-color: #08094d;
-max-width:100%;
+  max-width: 100%;
 }
 
 /* this works with the flex basis of the .work-card class to create equal spaces among all work cards */
