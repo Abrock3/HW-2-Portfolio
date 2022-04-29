@@ -40,7 +40,3 @@ To handle the anchors that darken on hover, I modified a snippet of code on a st
 I used https://coolors.co/ to help me decide on a color scheme.
 
 I used a free-to-use background image for the hero, downloaded from a curated list assembled by this unsplash user: https://unsplash.com/@iamr.
-
-## License
-
-I'm not adding a license at this time.
