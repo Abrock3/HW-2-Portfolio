@@ -33,6 +33,8 @@ Here's a link to the deployed application: https://abrock3.github.io/HW-2-Portfo
 
 ![Screenshot](./assets/images/screenshot.jpg?raw=true "Screenshot")
 
+![Screenshot](./assets/images/screenshot2.jpg?raw=true "Screenshot")
+
 ## Credits
 
 To handle the anchors that darken on hover, I modified a snippet of code on a stack overflow post by this user: https://stackoverflow.com/users/4450275/sabba-keynejad.
@@ -40,3 +42,9 @@ To handle the anchors that darken on hover, I modified a snippet of code on a st
 I used https://coolors.co/ to help me decide on a color scheme.
 
 I used a free-to-use background image for the hero, downloaded from a curated list assembled by this unsplash user: https://unsplash.com/@iamr.
+
+## Contact Info
+
+Telephone: 727-400-9280
+Email: a.paulbrock@gmail.com
+linkedin: https://www.linkedin.com/in/adam-p-brock/
