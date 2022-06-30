@@ -25,7 +25,7 @@ THEN I am taken to that deployed application
 WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 
-I wrote almost all of it from scratch, using a mobile-first approach to responsiveness and later added breakpoints for larger browser resolutions. In addition I tried to make it as accessible as possible, using descriptive elements, contrasting colors, and alt tags where necessary. I needed to use placeholders for my works, as I have no original works (aside from the code refactoring project) completed at this time. 
+I wrote almost all of it from scratch with no frameworks, using a mobile-first approach to responsiveness and later added breakpoints for larger browser resolutions. In addition I tried to make it as accessible as possible, using descriptive elements, contrasting colors, and alt tags where necessary.
 
 ## Usage
 
